@@ -15,12 +15,24 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@types/react": "^17.0.33",
     "gatsby": "^4.0.1",
+    "gatsby-image": "^3.11.0",
     "gatsby-plugin-image": "^2.0.0",
+    "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-sharp": "^4.0.1",
     "gatsby-source-filesystem": "^4.0.0",
+    "gatsby-source-strapi": "^1.0.2",
     "gatsby-transformer-sharp": "^4.0.0",
+    "jquery": "^3.6.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.3.1",
+    "react-markdown": "^7.1.0"
+  },
+  "devDependencies": {
+    "@fullpage/react-fullpage": "^0.1.19"
   }
 }
