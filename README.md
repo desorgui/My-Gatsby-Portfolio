@@ -4,8 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  MY Gatsby Portfolio
 </h1>
+
+> This is a portfolio designed as part of the Gatsby learning process, I want to use it to display my presence on the web. And allow people to have access to the different projects I worked on. It hasn't been deployed on the web yet, but you can test it by cloning it and installing the dependencies by running `npm install` in your terminal.
 
 ## 🚀 Quick start
 
